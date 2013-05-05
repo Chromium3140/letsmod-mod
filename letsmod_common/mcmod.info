@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LM",
+  "name": "Let's Mod",
+  "description": "MOD MOD MOD MOD MOD",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Chromium"
+  ],
+  "credits": "Dave",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
